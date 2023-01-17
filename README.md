@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Milagros Crisp aka Millie
-- 👀 I’m interested in kpop, math, animals, and food, basically everything. ^-^
-- 🌱 I’m currently learning python and statistics.
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me mgcrisp@cpp.edu / mlgrscrisp57@gmail.com / @milliebobeenie
+- 👋 Hi, I go by Millie
+- 👀 I’m interested in kpop, math, and data
+- 🌱 I’m currently looking for opportunities in data analysis
+- 📫 How to reach me mlgrscrisp57@gmail.com 
 
 <!---
 mgcrisp/mgcrisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
