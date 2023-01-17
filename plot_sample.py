@@ -1,5 +1,5 @@
 """
-Intro to plotting 
+A simple visualization that plots the square of a value.
 """
 
 import matplotlib.pyplot as plt 
