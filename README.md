@@ -1,7 +1,7 @@
 - 👋 Hi, I go by Millie
-- 👀 I’m interested in kpop, math, and data
-- 🌱 I’m currently looking for opportunities in data analysis using github as a place to store my projects
-- 📫 How to reach me mlgrscrisp57@gmail.com 
+- I’m currently looking for opportunities in data analysis using github as a place to store my projects.
+- I love kpop, math, and data.
+- Feel free to email me at mlgrscrisp57@gmail.com 
 
 <!---
 mgcrisp/mgcrisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
