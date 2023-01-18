@@ -1,6 +1,7 @@
 - 👋 Hi, I go by Millie
 - 👀 I’m interested in kpop, math, and data
-- 🌱 I’m currently looking for opportunities in data analysis
+- 🌱 I’m currently looking for opportunities in data analysis \
+-     and updating my projects on here for employers to see
 - 📫 How to reach me mlgrscrisp57@gmail.com 
 
 <!---
