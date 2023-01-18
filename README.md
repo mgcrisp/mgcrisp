@@ -1,5 +1,5 @@
 - 👋 Hi, I go by Millie
-- I’m currently looking for opportunities in data analysis using github as a place to store my projects.
+- I’m currently looking for opportunities in data analysis or data engineering using github as a place to store my projects.
 - I love kpop, math, and data.
 - Feel free to email me at mlgrscrisp57@gmail.com 
 
